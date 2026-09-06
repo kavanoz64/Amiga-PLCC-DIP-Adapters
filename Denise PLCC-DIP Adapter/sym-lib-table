@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "PLCC-DIP-Symbols") (type "KiCad") (uri "${KIPRJMOD}/../Footprints-And-Symbols/PLCC-DIP-Symbols.kicad_sym") (options "") (descr ""))
+)
